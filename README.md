@@ -4,6 +4,11 @@
 
 This Weather App is a simple iOS application that provides users with up-to-date weather information for their current location and allows them to search for weather information in different cities. The app follows the MVVM (Model-View-ViewModel) design pattern to maintain a clean and organized codebase.
 
+## Notes
+
+- **Loading Indicators**: We are continuously working on improving the user experience. In future updates, we plan to enhance the app by adding loading indicators for views that populate data obtained from location services and storage.
+
+
 ## Features
 
 - Display the current weather conditions for the user's current location.
